@@ -1,0 +1,20 @@
+php process.php 1 20 &
+php process.php 2 20 &
+php process.php 3 20 &
+php process.php 4 20 &
+php process.php 5 20 &
+php process.php 6 20 &
+php process.php 7 20 &
+php process.php 8 20 &
+php process.php 9 20 &
+php process.php 10 20 &
+php process.php 11 20 &
+php process.php 12 20 &
+php process.php 13 20 &
+php process.php 14 20 &
+php process.php 15 20 &
+php process.php 16 20 &
+php process.php 17 20 &
+php process.php 18 20 &
+php process.php 19 20 &
+php process.php 20 20

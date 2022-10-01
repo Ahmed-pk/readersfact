@@ -1,0 +1,20 @@
+php crawler.php 1 20 &
+php crawler.php 2 20 &
+php crawler.php 3 20 &
+php crawler.php 4 20 &
+php crawler.php 5 20 &
+php crawler.php 6 20 &
+php crawler.php 7 20 &
+php crawler.php 8 20 &
+php crawler.php 9 20 &
+php crawler.php 10 20 &
+php crawler.php 11 20 &
+php crawler.php 12 20 &
+php crawler.php 13 20 &
+php crawler.php 14 20 &
+php crawler.php 15 20 &
+php crawler.php 16 20 &
+php crawler.php 17 20 &
+php crawler.php 18 20 &
+php crawler.php 19 20 &
+php crawler.php 20 20
